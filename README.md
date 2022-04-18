@@ -3,7 +3,7 @@
 ### Школа Skill Factory 
 
 ## Оглавление  
-[1. Постановка цели и описание данных](https://github.com/olpachino/Project_BGG_rating/blob/master/README.md#Постановка цели и описание данных)  
+[1. Постановка цели и описание данных](https://github.com/olpachino/Project_BGG_rating/blob/master/README.md#Постановка-цели-и-описание-данных)  
 [2. Краткая информация о данных](https://github.com/olpachino/Project_BGG_rating/blob/master/README.md#Краткая-информация-о-данных)  
 [3. Этапы работы над проектом](https://github.com/olpachino/Project_BGG_rating/blob/master/README.md#Этапы-работы-над-проектом)  
 [4. Результат](https://github.com/olpachino/Project_BGG_rating/blob/master/README.md#Результат)  
