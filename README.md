@@ -1,6 +1,6 @@
 # Итоговый проект.  
 ## Предсказание рейтинга настольных игр, на основании данных [BGG](https://boardgamegeek.com/) 
-### Школа Skill Factory 
+### Школа SkillFactory 
 
 ## Оглавление  
 [1. Постановка цели и описание данных](https://github.com/olpachino/Project_BGG_rating/blob/master/README.md#Постановка-цели-и-описание-данных)  
